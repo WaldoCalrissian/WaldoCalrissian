@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Key search words :
+
+python program using multiple images and moving them with a mouse.
+python program using playing cards and moving them with a mouse.
+
 <!---
 WaldoCalrissian/WaldoCalrissian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
