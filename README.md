@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WaldoCalrissian
 - 👀 I’m interested in programming as a hobby
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on adventure board games
+- 📫 How to reach me walter.swietlik@gmail.com
 
 Key search words :
 
