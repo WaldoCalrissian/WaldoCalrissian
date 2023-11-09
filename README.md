@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming as a hobby
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on adventure board games
-- 📫 How to reach me wmswietlik@gmail.com
+- 📫 How to reach me wjswietlik@yahoo.com
 
 Key search words :
 
