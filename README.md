@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaldoCalrissian
 - 👀 I’m interested in programming as a hobby
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Android Studio and XCode
 - 💞️ I’m looking to collaborate on adventure board games
 - 📫 How to reach me wjswietlik@yahoo.com
 
